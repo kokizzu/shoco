@@ -1,3 +1,4 @@
+**Note: This project is unmaintained. You should use ZStandard nowadays**
 
 **shoco**: a fast compressor for short strings
 --------------------------------------------
